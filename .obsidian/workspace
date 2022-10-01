@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "3c8eb825853ba92a",
+    "type": "split",
+    "children": [
+      {
+        "id": "98026e4cf57d8a4c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "寄存器(内存访问).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80378d5fd0fab4f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "42fc2e19903e4e08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "705767a28c269da6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "052ea9fbdadf6c35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "62d680428a0e8d37",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2a2b03f0a088e24d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1198948df0bf1288",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39cb31a21fb04f8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "寄存器(内存访问).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa141289161f2a29",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "寄存器(内存访问).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18ba8a18387936e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ed7a92f3796967f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "寄存器(内存访问).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "98026e4cf57d8a4c",
+  "lastOpenFiles": [
+    "查看CPU和内存，用机器指令和汇编指令编程.md",
+    "汇编初级指令.md",
+    "Markdown语法.md"
+  ]
+}
