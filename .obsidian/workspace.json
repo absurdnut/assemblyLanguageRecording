@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "41ba2d7727285c16",
+        "id": "db8b5b111330663e",
         "type": "tabs",
         "children": [
           {
-            "id": "510bf877e42ff532",
+            "id": "7e2d20caf2f2401b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第十六章__直接定址表.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2a2b03f0a088e24d",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第十六章__直接定址表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第十六章__直接定址表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "第十六章__直接定址表.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -139,17 +132,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "510bf877e42ff532",
+  "active": "7e2d20caf2f2401b",
   "lastOpenFiles": [
-    "demo.c.md",
     "第十六章__直接定址表.md",
+    "第十七章__使用BIOS进行键盘输入和磁盘读写.md",
+    "demo.c.md",
     "第十五章__外中断.md",
     "第十二章__内中断.md",
     "第十四章__ 端口.md",
     "第十三章__int指令.md",
     "第八章__数据处理的两个基本问题.md",
     "第七章__更灵活的定位内存地址的方法.md",
-    "第九章__转移指令的原理.md",
-    "第十章__call和ret指令.md"
+    "第九章__转移指令的原理.md"
   ]
 }
