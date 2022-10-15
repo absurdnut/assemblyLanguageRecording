@@ -4,5 +4,7 @@
   "spellcheckLanguages": [
     "zh-CN",
     "en-GB"
-  ]
+  ],
+  "fileSortOrder": "byCreatedTimeReverse",
+  "livePreview": true
 }

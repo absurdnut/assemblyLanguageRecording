@@ -4,6 +4,9 @@
 
 ![](https://gitee.com/absurdnut/tuchuang/raw/master/img/123.png)
 
+## 8086CPU结构  
+
+![](https://gitee.com/absurdnut/tuchuang/raw/master/img/20221002145255.png)
 
 
 
